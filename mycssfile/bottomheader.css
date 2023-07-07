@@ -1,0 +1,73 @@
+.dheader{
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    width: 1670px;
+    height: 50px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0px -3px 5px black;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    z-index: 10;
+}
+
+.homebutton{
+ position: absolute;
+ top: 10px;
+ left: 530px;
+}
+.homeb{
+ position: absolute;
+ top: -8px;
+ left: -20px;
+ height: 40px;
+ width: 55px;
+}
+.searchbutton{
+ position: absolute;
+ top: 12px;
+ left: 678px;
+}
+.searchb{
+ position: absolute;
+ top: -10px;
+ left: -20px;
+ height: 40px;
+ width: 42px;
+}
+.createbutton{
+ position: absolute;
+ top: 12px;
+ left: 820px;
+}
+.createb{
+ position: absolute;
+ top: -10px;
+ left: -20px;
+ height: 40px;
+ width: 42px;
+}
+.reelsbutton{
+ position: absolute;
+ top: 12px;
+ left: 970px;
+}
+.reelsb{
+ position: absolute;
+ top: -10px;
+ left: -20px;
+ height:40px;
+ width: 42px;
+}
+.marketplacebutton{
+ position: absolute;
+ top: 12px;
+ left: 1120px;
+}
+.marketb{
+ position: absolute;
+ top: -8px;
+ left: -20px;
+ height:39px;
+ width: 42px;
+}

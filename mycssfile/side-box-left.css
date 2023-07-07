@@ -1,0 +1,126 @@
+.side-box-left{
+    position: absolute;
+    top: 53px;
+    left: 7.5px;
+    width: 490px;
+    height: 734.5px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0px 0px 1px black;
+    overflow-y: scroll;
+    overflow: hidden;
+   }
+   /* home button*/
+   .side-box-left > .menu1{
+    position: fixed;
+    left: 400px;
+    top: 40px;
+    color: black;
+    height: 50px;
+     font-size: 10px;
+     font-weight: 50px;
+   }
+   .side-box-left > a:hover{
+    color: blue;
+   }
+   .side-box-left >a > .menu15{
+    position: relative;
+    top: 35px;
+    left: -50px;
+    height: 45px;
+    width: 40px;
+   }
+   /* home button end*/
+   /* search button*/
+   .side-box-left > .menu2{
+    position: fixed;
+    left: 400px;
+    top: 130px;
+    color: black;
+    height: 50px;
+     font-size: 10px;
+     font-weight: 50px;
+   }
+   .side-box-left > a > .menu25{
+    position: relative;
+    top: 25px;
+    left: -40px;
+    height: 45px;
+    width: 40px;
+   }
+   /*search button end*/
+   /*notification button*/
+   .side-box-left > .menu3{
+    position: fixed;
+    left: 400px;
+    top: 200px;
+    border: none;
+    color: black;
+    height: 50px;
+     font-size: 10px;
+     font-weight: 50px;
+   }
+   .side-box-left > a > .menu35{
+    position: relative;
+    top: 25px;
+    left: -40px;
+    height: 45px;
+    width: 40px;
+   }
+   /*notification button end*/
+   /*chats button*/
+   .side-box-left > .menu4{
+    position: fixed;
+    left: 400px;
+    top: 260px;
+    border: none;
+    color: black;
+    height: 50px;
+     font-size: 10px;
+     font-weight: 50px;
+   }
+   .side-box-left > a > .menu45{
+    position: relative;
+    top: 29px;
+    left: -40px;
+    height: 45px;
+    width: 40px;
+   }
+   /*chats button end*/
+/*profile button*/
+.side-box-left > .menu5{
+  position: fixed;
+  left: 400px;
+  top: 320px;
+  border: none;
+  color: black;
+  height: 50px;
+   font-size: 10px;
+   font-weight: 50px;
+ }
+ .side-box-left > a > .menu55{
+  position: relative;
+  top: 29px;
+  left: -40px;
+  height: 45px;
+  width: 40px;
+ }
+ /*profile button end*/
+ /*more button*/
+.side-box-left > .menu6{
+  position: fixed;
+  left: 400px;
+  top: 385px;
+  border: none;
+  color: black;
+  height: 50px;
+   font-size: 10px;
+   font-weight: 50px;
+ }
+ .side-box-left > a > .menu65{
+  position: relative;
+  top: 25px;
+  left: -42px;
+  height: 45px;
+  width: 40px;
+ }
+ /*more button end*/
