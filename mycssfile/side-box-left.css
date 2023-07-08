@@ -12,7 +12,7 @@
    /* home button*/
    .side-box-left > .menu1{
     position: fixed;
-    left: 400px;
+    left: 60px;
     top: 40px;
     color: black;
     height: 50px;
@@ -33,7 +33,7 @@
    /* search button*/
    .side-box-left > .menu2{
     position: fixed;
-    left: 400px;
+    left: 60px;
     top: 130px;
     color: black;
     height: 50px;
@@ -51,7 +51,7 @@
    /*notification button*/
    .side-box-left > .menu3{
     position: fixed;
-    left: 400px;
+    left: 60px;
     top: 200px;
     border: none;
     color: black;
@@ -70,7 +70,7 @@
    /*chats button*/
    .side-box-left > .menu4{
     position: fixed;
-    left: 400px;
+    left: 60px;
     top: 260px;
     border: none;
     color: black;
@@ -89,7 +89,7 @@
 /*profile button*/
 .side-box-left > .menu5{
   position: fixed;
-  left: 400px;
+  left: 60px;
   top: 320px;
   border: none;
   color: black;
@@ -108,7 +108,7 @@
  /*more button*/
 .side-box-left > .menu6{
   position: fixed;
-  left: 400px;
+  left: 60px;
   top: 385px;
   border: none;
   color: black;
